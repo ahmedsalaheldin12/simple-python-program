@@ -1,0 +1,5 @@
+id,name,salary,age,position,technology,email,password,management_type
+1,hamada,5000,24,senior,backend,hamada@gmail.com,123456,admin
+2,salah,4000,25,junior,frontend,salah@gmail.com,123456,employee
+3,islam,4000,25,sen,back,islam@gmail.com,123456,employee
+
